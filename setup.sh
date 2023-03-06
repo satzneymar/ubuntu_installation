@@ -1,3 +1,4 @@
+## curl -Ss https://raw.githubusercontent.com/satzneymar/ubuntu_installation/main/setup.sh | sudo bash
 #!/bin/bash
 #!/bin/sh
 
